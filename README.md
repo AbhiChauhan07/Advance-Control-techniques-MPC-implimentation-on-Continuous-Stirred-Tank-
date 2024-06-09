@@ -4,7 +4,7 @@ Continuous stirred tank mixing process with two inlet F1 and F2 with the differe
 and C2 respectively
 ![image](https://github.com/AbhiChauhan07/Optimal_Predictive_Control/assets/156859411/00f29889-18e8-4bd6-8a3e-8e0e2ccd1c16)
 
-Terminology and explanation:
-1. 'LQR' (Linear Qudaratic Regulator) - Liniearization of the system and stabilize the system around the SS values
-2. 'TPBVP' (Two Point Boundry Value Problem) - Impliment the boundry condtion on the system and solve the control problem
-3. 'MPC' (Model Predictive Control) - solves a problem related to optimal control using the system's current state as a starting state and forecasts the set of control actions for a finite amount of time
+### Terminology:
++ `LQR` (Linear Qudaratic Regulator) - Liniearization of the system and stabilize the system around the SS values.
++ `TPBVP` (Two Point Boundry Value Problem) - Impliment the boundry condtion on the system and solve the control problem.
++ `MPC` (Model Predictive Control) - solves a problem related to optimal control using the system's current state as a starting state and forecasts the set of control actions for a finite amount of time.
