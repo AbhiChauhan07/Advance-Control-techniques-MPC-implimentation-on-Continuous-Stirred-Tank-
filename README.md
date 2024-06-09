@@ -1,0 +1,2 @@
+Continuous stirred tank mixing process with two inlet F1 and F2 with the different concentration C1 and C2 has been taken for modeling and optimization. For the system, I have taken the assumption that CSTR has well mixed as well as the outlet concentration (C) at output stream (F) is same as the tank concentration. The aim of the project is to control the outlet concentration while maintain the height of the tank with respect to the change in the inlets flow F1 and F2 as well as the inlets stream concentration C1
+and C2 respectively
